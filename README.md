@@ -21,15 +21,23 @@
   <img alt="divider" height="2" width="60%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'><defs><linearGradient id='d' x1='0' x2='1'><stop offset='0' stop-color='%23000000'/><stop offset='0.5' stop-color='%2339ff14'/><stop offset='1' stop-color='%23000000'/></linearGradient></defs><rect width='100' height='2' fill='url(%23d)'/></svg>">
 </p>
 
+
 <!-- ===================  ABOUT  =================== -->
-<img align="right" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coding gif"/>
+<h2 align="center">👾 About Me</h2>
+<table align="center">
+<tr>
+<td align="center" width="60%">
 
-- 🚀 I’m working as **Pentester**  
-- 🎓 Certifications: **OSCP, CARTP**  
-- 💬 Ask me about **Pentesting, CTFs, Networking**
+🚀 I’m working as **Pentester**  
+🎓 Certifications: **OSCP, CARTP**  
+💬 Ask me about **Pentesting, CTFs, Networking**
 
-<br clear="right"/>
-<br clear="right"/>
+</td>
+<td align="center" width="40%">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemV0NWt4cGxnbGgwazQyMjVudjd2emJrcDEwdmQ3aXh1b2Q4ZG01YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding gif"/>
+</td>
+</tr>
+</table>
 <!-- ===================  SOCIALS  =================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/mathieu-esteban" target="_blank">
