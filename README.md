@@ -14,12 +14,7 @@
 </h1>
 
 <!-- ===================  ONE-LINER  =================== -->
-<h3 align="center">⚡ Pentester&nbsp;| 🎯 CTF Player&nbsp;| 🛠️ Tools creator — building what I need, sharing what I build.</h3>
-
-<!-- thin neon divider -->
-<p align="center">
-  <img alt="divider" height="2" width="60%" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 2'><defs><linearGradient id='d' x1='0' x2='1'><stop offset='0' stop-color='%23000000'/><stop offset='0.5' stop-color='%2339ff14'/><stop offset='1' stop-color='%23000000'/></linearGradient></defs><rect width='100' height='2' fill='url(%23d)'/></svg>">
-</p>
+<h3 align="center">⚡ Pentester&nbsp;| 🎯 CTF Player&nbsp;| 🛠️ Tools creator — building what I need, sharing what I build.</h3
 
 
 <!-- ===================  ABOUT  =================== -->
