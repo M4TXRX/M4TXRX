@@ -24,7 +24,7 @@
 <td align="center" width="60%">
 
 🚀 I’m working as **Pentester**  
-🎓 Certifications: **OSCP, CARTP**  
+🎓 Certifications: **OSEP, OSCP, CARTP**  
 💬 Ask me about **Pentesting, CTFs, Networking**
 
 </td>
